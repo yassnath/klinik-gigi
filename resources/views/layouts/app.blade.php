@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <title>SIM HealtEase</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="icon" type="image/png" href="{{ asset('images/logo2.png') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <style>
@@ -159,7 +160,7 @@
         {{-- Sidebar --}}
         <aside id="sidebar" class="fixed inset-y-0 left-0 w-64 bg-surface shadow-lg p-6 border-r border-soft transform -translate-x-full transition-transform duration-300 ease-out z-50 sm:static sm:translate-x-0">
             <div class="flex flex-col items-center mb-6">
-                <img src="{{ asset('images/logo.png') }}" alt="Logo Klinik" class="h-12 mb-2">
+                <img src="{{ asset('images/logo2.png') }}" alt="Logo Klinik" class="h-12 mb-2">
             </div>
 
             <nav class="space-y-4">
@@ -410,3 +411,4 @@
 
 </body>
 </html>
+

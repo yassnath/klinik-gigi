@@ -47,7 +47,7 @@
 
         <!-- Logo -->
         <div class="flex justify-center mb-3">
-            <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-14">
+            <img src="{{ asset('images/logo2.png') }}" alt="Logo" class="h-14">
         </div>
 
         <h1 class="text-xl font-bold mb-4 text-center" style="color: var(--secondary);">Register Pasien</h1>
@@ -206,3 +206,4 @@
 
 </body>
 </html>
+

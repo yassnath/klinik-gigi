@@ -439,7 +439,7 @@
           </ul>
 
           <div class="mt-8">
-            <a href="https://wa.me/6281243447272" class="btn btn-outline px-5 py-3">
+            <a href="https://wa.me/6282221657340" class="btn btn-outline px-5 py-3">
               Minta Demo
             </a>
           </div>
@@ -468,7 +468,7 @@
           </ul>
 
           <div class="mt-8">
-            <a href="https://wa.me/6281243447272" class="btn btn-primary px-5 py-3">
+            <a href="https://wa.me/6282221657340" class="btn btn-primary px-5 py-3">
               Konsultasi Paket
             </a>
           </div>
@@ -492,7 +492,7 @@
           </ul>
 
           <div class="mt-8">
-            <a href="https://wa.me/6281243447272" class="btn btn-outline px-5 py-3">
+            <a href="https://wa.me/6282221657340" class="btn btn-outline px-5 py-3">
               Ajukan Penawaran
             </a>
           </div>
@@ -525,7 +525,7 @@
       <div class="grid sm:grid-cols-2 gap-4 max-w-xl mx-auto">
         <!-- Instagram -->
         <a
-          href="https://instagram.com/healthease.id"
+          href="https://instagram.com/solvix.studio"
           target="_blank"
           rel="noopener"
           class="group flex items-center justify-center gap-3 px-5 py-4 rounded-2xl border border-soft bg-surface shadow-sm hover-soft"
@@ -538,14 +538,14 @@
           <div class="text-left">
             <div class="text-xs text-subtle">Instagram</div>
             <div class="font-semibold text-body group-hover:text-primary transition">
-              @healthease
+              @solvix.studio
             </div>
           </div>
         </a>
 
         <!-- WhatsApp -->
         <a
-          href="https://wa.me/6281243447272"
+          href="https://wa.me/6282221657340"
           target="_blank"
           rel="noopener"
           class="group flex items-center justify-center gap-3 px-5 py-4 rounded-2xl border border-soft bg-surface shadow-sm hover-soft"
@@ -558,7 +558,7 @@
           <div class="text-left">
             <div class="text-xs text-subtle">WhatsApp</div>
             <div class="font-semibold text-body group-hover:text-primary transition">
-              0812-4344-7272
+              0822-2165-7340
             </div>
           </div>
         </a>
@@ -567,7 +567,7 @@
   </section>
 
   <footer class="text-center py-6 text-sm text-subtle">
-    &copy; 2025 Klinik HealtEase. All rights reserved.
+    &copy; 2025 Solvix Studio. All rights reserved.
   </footer>
 
   <!-- ================= AI CS WIDGET (TAMBAHAN SAJA) ================= -->

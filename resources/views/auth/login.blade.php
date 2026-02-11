@@ -63,7 +63,7 @@
 
         {{-- Logo --}}
         <div class="flex justify-center mb-4">
-            <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-16">
+            <img src="{{ asset('images/logo2.png') }}" alt="Logo" class="h-16">
         </div>
 
         <h1 class="text-2xl font-bold mb-2 text-center" style="color: var(--secondary);">
@@ -178,3 +178,4 @@
 
 </body>
 </html>
+

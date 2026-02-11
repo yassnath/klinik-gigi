@@ -8,7 +8,7 @@
         <h2 class="text-xl font-bold text-blue-700">Kartu Pasien</h2>
         <div class="text-sm text-gray-500">Tunjukkan ke resepsionis/dokter</div>
       </div>
-      <img src="{{ asset('images/logo.png') }}" class="h-10" alt="Logo">
+      <img src="{{ asset('images/logo2.png') }}" class="h-10" alt="Logo">
     </div>
 
     <div class="grid grid-cols-3 gap-4">
@@ -84,3 +84,4 @@
 })();
 </script>
 @endsection
+
